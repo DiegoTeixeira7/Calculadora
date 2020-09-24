@@ -3,4 +3,5 @@
     <string name="calc_simple">Calculadora simples</string>
     <string name="calc_complete">Calculadora completa</string>
     <string name="voltar_menu">Voltar</string>
+    <string name="seta"><![CDATA[<<]]></string>
 </resources>
